@@ -1,5 +1,6 @@
 # task-4-logistic-regression
-AI &ml; ML Internship - Task 4: Classification using Logistic Regression
+AI & ML Internship - Task 4: Classification using Logistic Regression
+
 📌 Objective
 
 The objective of this project is to build a binary classification model using Logistic Regression to predict whether a tumor is malignant or benign.
