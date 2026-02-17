@@ -4,6 +4,8 @@ AI & ML Internship - Task 4: Classification using Logistic Regression
 📌 Objective
 
 The objective of this project is to build a binary classification model using Logistic Regression to predict whether a tumor is malignant or benign.
+
+
 📊 Dataset Used
 
 Breast Cancer Wisconsin Dataset
@@ -12,13 +14,17 @@ Features: 30 numerical features
 Target:
 0 → Malignant
 1 → Benign
+
+
 🛠 Tools & Libraries
 
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
+*Python
+*Pandas
+*NumPy
+*Matplotlib
+*Scikit-learn
+
+
 🚀 Steps Performed
 
 Imported required libraries
@@ -42,6 +48,8 @@ ROC-AUC Score
 
 ROC Curve
 
+
+
 📈 Model Evaluation
 
 🔹 Confusion Matrix
@@ -60,6 +68,8 @@ Indicates how many actual positives were correctly identified.
 
 Measures the overall performance of the classifier across all thresholds.
 
+
+
 📉 Sigmoid Function
 
 Logistic Regression uses the sigmoid function:
@@ -67,6 +77,8 @@ Logistic Regression uses the sigmoid function:
 σ(z) = 1 / (1 + e⁻ᶻ)
 
 It converts predictions into probability values between 0 and 1.
+
+
 
 📌 Results
 
